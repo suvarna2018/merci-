@@ -1,5 +1,5 @@
 
-public class Zyx {
+public class Zyx  {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
